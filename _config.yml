@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  articles:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
