@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S., Chemical & Biological Engineering, Iowa State University, 2012
-* Ph.D, Chemical & Biomolecular Engineering, Vanderbilt University, 2019 (expected)
+* Ph.D, Chemical & Biomolecular Engineering, Vanderbilt University, 2019
 
 <!--
 

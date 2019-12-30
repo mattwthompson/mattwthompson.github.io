@@ -12,11 +12,11 @@ redirect_from:
 style="max-width:800px;margin-left:auto;margin-right:auto;padding-top:40px;padding-bottom:20px;padding-left:15px;padding-right:15px">
 
 <p>
-I am a PhD Candidate in the Peter T. Cummings lab in the Department of Chemical
-and Biomolecular Engineering at Vanderbilt University. My research focuses on
-the use of molecular simulation to study the fundamental properties of
-components of next-generation energy storage devices. Lately I have also worked
-on tools that automate workflows aimed at these and other scientific questions.
+I am a research engineer in the Peter T. Cummings lab in the Department of Chemical and Biomolecular
+Engineering at Vanderbilt University, where I received my PhD in 2019. My research focuses on the
+use of molecular simulation to study the fundamental properties of components of next-generation
+energy storage devices. Lately I have also worked on tools that automate workflows aimed at these
+and other scientific questions.
 </p>
 
 <p>
