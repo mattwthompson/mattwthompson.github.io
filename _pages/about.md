@@ -16,11 +16,11 @@ I am a research engineer in the Peter T. Cummings lab in the Department of Chemi
 Engineering at Vanderbilt University, where I received my PhD in 2019. My research focuses on the
 use of molecular simulation to study the fundamental properties of components of next-generation
 energy storage devices. Lately I have also worked on tools that automate workflows aimed at these
-and other scientific questions.
+and other scientific questions. My main two projects at Vanderbilt have been the <a href="https://web.ornl.gov/sci/first/">FIRST Center</a> and <a href="https://mosdef.org">MoSDeF</a>.
 </p>
 
 <p>
-In my free time I enjoy playing various games, lately this has included chess and Pokemon Go.
+In my free time I enjoy playing games (Pokemon Go and PC games), cooking, and reading (send me your favorite blog posts!).
 </p>
 
 <img style="float: left; margin: 0px 15px 10px 0px;" src="/images/solvent.png"  height="300" width="420"/>
