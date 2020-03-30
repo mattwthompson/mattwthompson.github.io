@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Matt Thompson"
   avatar           : "headshot.png"
-  bio              : "Research engineer, Vanderbilt University"
-  location         : "Nashville, TN"
+  bio              : "Software Scientist, Open Force Field Initiative"
+  location         : #"Nashville, TN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6b0rHj8AAAAJ"

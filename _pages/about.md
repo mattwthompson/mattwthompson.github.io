@@ -12,11 +12,18 @@ redirect_from:
 style="max-width:800px;margin-left:auto;margin-right:auto;padding-top:40px;padding-bottom:20px;padding-left:15px;padding-right:15px">
 
 <p>
-I am a research engineer in the Peter T. Cummings lab in the Department of Chemical and Biomolecular
-Engineering at Vanderbilt University, where I received my PhD in 2019. My research focuses on the
+I am a software scientist with the <a href="https://openforcefield.org">Open Force Field initiative</a>,
+where I started in March 2020. I am interested in reproducible scientific workflows and the software 
+that enables them.
+</p>
+
+<p>
+Previously, I was a PhD candidate and research engineer in the Peter T.
+Cummings lab in the Department of Chemical and Biomolecular
+Engineering at Vanderbilt University, where I received my PhD in 2019. My research there focused on the
 use of molecular simulation to study the fundamental properties of components of next-generation
-energy storage devices. Lately I have also worked on tools that automate workflows aimed at these
-and other scientific questions. My main two projects at Vanderbilt have been the <a href="https://web.ornl.gov/sci/first/">FIRST Center</a> and <a href="https://mosdef.org">MoSDeF</a>.
+energy storage devices. Late in my time at Vanderbilt, I also worked on tools that automate workflows aimed at these
+and other scientific questions. My main two projects at Vanderbilt were the <a href="https://web.ornl.gov/sci/first/">FIRST Center</a> and <a href="https://mosdef.org">MoSDeF</a>.
 </p>
 
 <p>
