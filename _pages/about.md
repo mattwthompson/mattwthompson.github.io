@@ -27,7 +27,7 @@ and other scientific questions. My main two projects at Vanderbilt were the <a h
 </p>
 
 <p>
-In my free time I enjoy playing games (Pokemon Go and PC games), cooking, and reading (send me your favorite blog posts!).
+In my free time I enjoy playing games, cooking, and reading.
 </p>
 
 <img style="float: left; margin: 0px 15px 10px 0px;" src="/images/solvent.png"  height="300" width="420"/>
