@@ -12,8 +12,8 @@ redirect_from:
 style="max-width:800px;margin-left:auto;margin-right:auto;padding-top:40px;padding-bottom:20px;padding-left:15px;padding-right:15px">
 
 <p>
-I am a software scientist with the <a href="https://openforcefield.org">Open Force Field initiative</a>,
-where I started in March 2020. I am interested in reproducible scientific workflows and the software 
+I am a Senior Research Software Engineer with the <a href="https://openforcefield.org">Open Force Field initiative</a>,
+where I started in March 2020 (and until March 2022 held the title of Software Scientist). Broadly, I work on productionalizing research software as part of developing and maintaining the <a href="https://github.com/openforcefield">OpenFF software stack</a>.
 that enables them.
 </p>
 
@@ -27,7 +27,7 @@ and other scientific questions. My main two projects at Vanderbilt were the <a h
 </p>
 
 <p>
-In my free time I enjoy playing games, cooking, and reading.
+In my free time I enjoy gaming, cooking, and reading, running, and biking.
 </p>
 
 <img style="float: left; margin: 0px 15px 10px 0px;" src="/images/solvent.png"  height="300" width="420"/>
