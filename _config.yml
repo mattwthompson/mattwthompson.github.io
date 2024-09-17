@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matt Thompson"
   avatar           : "headshot.png"
-  bio              : "Software Scientist, Open Force Field Initiative"
+  bio              : "Senior Research Software Engineer, Open Force Field Initiative"
   location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=6b0rHj8AAAAJ"
-  email            : "matt.thompson@vanderbilt.edu"
+  email            : "matt.thompson@openforcefield.org"
   researchgate     : "https://www.researchgate.net/profile/Matthew_Thompson39"
   uri              :
   bitbucket        :
@@ -106,10 +106,10 @@ author:
   orcid            : "https://orcid.org/0000-0002-1460-3983"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "mwt_dev"
+  twitter          :
   vine             :
   weibo            :
   xing             :
