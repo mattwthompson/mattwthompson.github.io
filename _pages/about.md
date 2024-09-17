@@ -13,8 +13,7 @@ style="max-width:800px;margin-left:auto;margin-right:auto;padding-top:40px;paddi
 
 <p>
 I am a Senior Research Software Engineer with the <a href="https://openforcefield.org">Open Force Field initiative</a>,
-where I started in March 2020 (and until March 2022 held the title of Software Scientist). Broadly, I work on productionalizing research software as part of developing and maintaining the <a href="https://github.com/openforcefield">OpenFF software stack</a>.
-that enables them.
+where I started in March 2020 (and until March 2022 held the title of Software Scientist). Broadly, I work on productionalizing research software as part of developing and maintaining the <a href="https://github.com/openforcefield">OpenFF software stack</a> that enables them.
 </p>
 
 <p>
